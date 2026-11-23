@@ -1,4 +1,4 @@
-# archiveorg-translations
+# archiveorg-i18n
 
 Translations for archive.org. The strings are edited in Weblate (weblate.archive.org), not by pull request. Weblate commits straight to this repo.
 
