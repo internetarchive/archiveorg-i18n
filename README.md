@@ -24,3 +24,7 @@ Nothing here reaches production without that review.
 ## Reviewers
 
 Per-language reviewers: TBD (WEBDEV-10125).
+
+## License
+
+AGPL-3.0, same as offshoot. See LICENSE.
