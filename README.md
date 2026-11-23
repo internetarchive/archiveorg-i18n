@@ -14,7 +14,7 @@ Files are XLIFF 1.2, as written by `@lit/localize`. More projects (elements, pet
 
 ## How projects use it
 
-1. Offshoot extracts its source strings and sends the updated `.xlf` files here.
+1. When strings change on offshoot's main, its CI extracts them on top of the file here (so existing translations stay) and pushes the result straight to main. Offshoot's GitLab needs a sign-in, so this repo can't pull from it. The push uses a token scoped to this repo only.
 2. Weblate picks them up and translators work on them there.
 3. Weblate commits the translations back to this repo.
 4. A bot opens a merge request on offshoot that pins the new translations. A person reviews and merges it.
