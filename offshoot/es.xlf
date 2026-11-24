@@ -1059,14 +1059,6 @@ No puedes reutilizar un nombre de usuario una vez que lo has cambiado.</target>
   <source>Loading emulator...</source>
 <target>Cargando el emulador...</target>
 </trans-unit>
-<trans-unit id="sc07837c309cc699b">
-  <source>Unmute</source>
-<target>Activar sonido</target>
-</trans-unit>
-<trans-unit id="se0f67eae944f8f94">
-  <source>Mute</source>
-<target>Silenciar</target>
-</trans-unit>
 <trans-unit id="sc8d5ced0f8c22839">
   <source>[screenshot]</source>
 <target>[captura de pantalla]</target>
@@ -1694,10 +1686,6 @@ No puedes reutilizar un nombre de usuario una vez que lo has cambiado.</target>
 <trans-unit id="sdc673e73b5c13aea">
   <source>Delete</source>
 <target>Eliminar</target>
-</trans-unit>
-<trans-unit id="s1e9666a015571929">
-  <source>Toggle userlist dropdown</source>
-<target>Mostrar u ocultar la lista de usuarios</target>
 </trans-unit>
 <trans-unit id="s3482156938247cba">
   <source> Add list</source>
@@ -4614,10 +4602,6 @@ No puedes reutilizar un nombre de usuario una vez que lo has cambiado.</target>
   <source>Save current view</source>
 <target>Guardar la vista actual</target>
 </trans-unit>
-<trans-unit id="sac27fa01e86b5934">
-  <source>Close queue</source>
-<target>Cerrar la cola</target>
-</trans-unit>
 <trans-unit id="s80f603b54a9209ce">
   <source>Road Trip</source>
 <target>Road Trip</target>
@@ -4633,10 +4617,6 @@ No puedes reutilizar un nombre de usuario una vez que lo has cambiado.</target>
 <trans-unit id="s2ed90f5e984ef9b7">
   <source>Full mode</source>
 <target>Modo completo</target>
-</trans-unit>
-<trans-unit id="s853ceb90e3a841f6">
-  <source>Toggle queue</source>
-<target>Mostrar u ocultar la cola</target>
 </trans-unit>
 <trans-unit id="sae1f46c5b6706983">
   <source>Back to bottom player</source>
@@ -4846,10 +4826,6 @@ No puedes reutilizar un nombre de usuario una vez que lo has cambiado.</target>
   <source>Most Popular</source>
 <target>Más populares</target>
 </trans-unit>
-<trans-unit id="s96d91ac246fd7abc">
-  <source>Venue</source>
-<target>Lugar</target>
-</trans-unit>
 <trans-unit id="sa6f2645578b2d2bc">
   <source>Year</source>
 <target>Año</target>
@@ -4857,6 +4833,904 @@ No puedes reutilizar un nombre de usuario una vez que lo has cambiado.</target>
 <trans-unit id="s7292700b6aa631fe">
   <source>Artist</source>
 <target>Artista</target>
+</trans-unit>
+<trans-unit id="s92921878e886e36d">
+  <source>Duration</source>
+</trans-unit>
+<trans-unit id="s98547c970647a35a">
+  <source>Scanned in</source>
+</trans-unit>
+<trans-unit id="s61c280a23bf0ee76">
+  <source>Video Codec</source>
+</trans-unit>
+<trans-unit id="s120a447f6ba2f8b3">
+  <source>Audio Codec</source>
+</trans-unit>
+<trans-unit id="s361a467bff8edfcf">
+  <source>Pixel width</source>
+</trans-unit>
+<trans-unit id="s7e603609b83b31b2">
+  <source>Pixel height</source>
+</trans-unit>
+<trans-unit id="sec2a4c9fea36cde9">
+  <source>The Emulator Could Not Be Loaded</source>
+</trans-unit>
+<trans-unit id="s04aba6130cfe5156">
+  <source>Please try again later.</source>
+</trans-unit>
+<trans-unit id="sda6be828b394c34f">
+  <source>Show thumbnails grid</source>
+</trans-unit>
+<trans-unit id="s5c8fcabba6089217">
+  <source>Click for sound</source>
+</trans-unit>
+<trans-unit id="s5e9c5d2b1da14a7d">
+  <source>Click to mute</source>
+</trans-unit>
+<trans-unit id="s382d5baeec570f3d">
+  <source>Sound is off. Click for sound.</source>
+</trans-unit>
+<trans-unit id="s3def691753df4426">
+  <source>Sound is on. Click to mute sound.</source>
+</trans-unit>
+<trans-unit id="s74f07d2c0b0077c9">
+  <source>Change playback speed</source>
+</trans-unit>
+<trans-unit id="sb06786f4cd4cd1c9">
+  <source>Fullscreen view</source>
+</trans-unit>
+<trans-unit id="sf9397b3468a86daa">
+  <source>Change playback speed (<x id="0" equiv-text="${this.rate}"/>x)</source>
+</trans-unit>
+<trans-unit id="s8ac54b1cce7dc8ae">
+  <source>From Wikipedia</source>
+</trans-unit>
+<trans-unit id="s75880f9ce418c539">
+  <source>Close queue and history</source>
+</trans-unit>
+<trans-unit id="sd1f675fb5ed4738d">
+  <source>Queue and history</source>
+</trans-unit>
+<trans-unit id="sc69c6c9c8e8fa82b">
+  <source>Toggle queue and history</source>
+</trans-unit>
+<trans-unit id="s2a4086b16fbb14cf">
+  <source>No recently played tracks</source>
+</trans-unit>
+<trans-unit id="sec7b0e71e607b92b">
+  <source>Queue All</source>
+</trans-unit>
+<trans-unit id="sde9b733c37bd7c18">
+  <source>Add <x id="0" equiv-text="${track.title}"/> to queue</source>
+</trans-unit>
+<trans-unit id="s340cb36de0ad0c45">
+  <source>Play <x id="0" equiv-text="${track.title}"/></source>
+</trans-unit>
+<trans-unit id="saea66e05e3c164ec">
+  <source>No favorite shows yet. Use the heart on a show in your queue, or the Favorite button on a show's page, to add one.</source>
+</trans-unit>
+<trans-unit id="sf658890cc9352c1b">
+  <source>Show details for <x id="0" equiv-text="${show.title}"/></source>
+</trans-unit>
+<trans-unit id="s715c135990b9e547">
+  <source>Reel-to-Reel and the First Online Fan Communities</source>
+</trans-unit>
+<trans-unit id="scef5b3648fd8aa67">
+  <source>1966 – 1974</source>
+</trans-unit>
+<trans-unit id="s0c0a59b5890273f2">
+  <source>In the 1960s, the Bay Area counterculture and the emerging tech world were in the same physical space. The Dead came into being in Palo Alto, California (in proto Silicon Valley) in the mid-1960s, a few miles down the road from Stanford University and the leading computer scientists of the age. Many of them, it turns out, loved Dead shows.</source>
+</trans-unit>
+<trans-unit id="sd05f4af0d5c941e7">
+  <source>1966</source>
+</trans-unit>
+<trans-unit id="s07437b55678487aa">
+  <source>Owsley Stanley records every show</source>
+</trans-unit>
+<trans-unit id="s437b6e3df2260ad0">
+  <source>Owsley Stanley begins recording the soundboard of every live show, which is the first systematic documentation of a live rock band’s shows.</source>
+</trans-unit>
+<trans-unit id="sd05bc2f0d5c624f8">
+  <source>1970</source>
+</trans-unit>
+<trans-unit id="sc887dde5a0bc8def">
+  <source>Betty Cantor-Jackson’s reels</source>
+</trans-unit>
+<trans-unit id="s504302677a884f98">
+  <source>Betty Cantor-Jackson starts direct two-track reel-to-reel recordings of the live mix off the soundboards of Dead shows. Almost no one outside the band knows the recordings exist.</source>
+</trans-unit>
+<trans-unit id="sd66c7a99ee143472">
+  <source>Fans start taping</source>
+</trans-unit>
+<trans-unit id="s32ef9dc68c812d64">
+  <source>Deadheads are smuggling reel-to-reel recorders and mic stands into shows, under large coats, and at times pretending they were on crutches to slip by security. There were no formal rules against it, and enforcement was on a whim. The band’s position on it is inconsistent. This is the first fan-initiated live music audio documentation for any band.</source>
+</trans-unit>
+<trans-unit id="s563bcdb7013b84a8">
+  <source>Tapes begin to get circulated, and dubbed. Quality degrades with each generation of dub. Setlists are being maintained in typed notebooks and photocopied, and transmitted by postal mail. No computers.</source>
+</trans-unit>
+<trans-unit id="sd05bc3f0d5c626ab">
+  <source>1971</source>
+</trans-unit>
+<trans-unit id="sfaf0023605764b33">
+  <source>First organized fan music trading network</source>
+</trans-unit>
+<trans-unit id="s21fcc95d4133bb24">
+  <source>Les Kippel ("Mr. Tapes") sets up a non-commercial tape trading network using postal mail. People in 48 states and abroad. Totally fan generated. The record labels had nothing to do with it.</source>
+</trans-unit>
+<trans-unit id="s1ff097c435def8ad">
+  <source>1971–72</source>
+</trans-unit>
+<trans-unit id="s7e58bb4cac97d887">
+  <source>The Stanford Artificial Intelligence Laboratory</source>
+</trans-unit>
+<trans-unit id="s285fc539a488bfab">
+  <source>The Stanford Artificial Intelligence Laboratory has DEC PDP-10 mainframe computers on a time-sharing system called WAITS, and is the first institution in history where every researcher had a video terminal at their desk, like a phone. The researchers have a number of Deadheads among them, and keep a shared document on the system, one of the very first shared digital documents, their memory of Dead lyrics from the shows they were going to. The first crowdsourced digital lyrics database.</source>
+</trans-unit>
+<trans-unit id="sd617ebc5311dca58">
+  <source>Previously you would have had to "go to the computer" to use it, and there was no such thing as "casual use" of a computer, rare multi-million-dollar machines with tightly rationed access. The team eventually gives a printout of the lyrics to the band, who didn’t have it all written down anywhere.</source>
+</trans-unit>
+<trans-unit id="sa0cf69411b903532">
+  <source>~1972</source>
+</trans-unit>
+<trans-unit id="s9bf2d703e3a2e3fd">
+  <source>Among the earliest non-technical uses of government lab computers</source>
+</trans-unit>
+<trans-unit id="sde3201de12a6671e">
+  <source>The man who coined the term "artificial intelligence," John McCarthy, Turing Award winner and founder of the Laboratory, uses the WAITS system to post a ranked list of his favorite live versions of the song "St. Stephen," internal to the lab, before any of the research institutions were connected to the ARPANET. In 1972, Ned Lagin, at MIT making electronic music and a collaborator with the band, is given an account on the WAITS system (now connected to the ARPANET).</source>
+</trans-unit>
+<trans-unit id="sd05bc5f0d5c62a11">
+  <source>1973</source>
+</trans-unit>
+<trans-unit id="sa6941a82d82b3104">
+  <source>dead@SU-AI: the first online fan community</source>
+</trans-unit>
+<trans-unit id="s63db11c7c71e3fff">
+  <source>Paul Martin starts the first non-technical interest community on any computer network in history: an email list for people at the Laboratory and connected ARPANET nodes, registered in the static HOSTS.TXT file downloaded by every node on the network. Not just the first music community. The first computer-mediated fan community of any kind, for anything.</source>
+</trans-unit>
+<trans-unit id="s3c3358f0ade75728">
+  <source>The same year, the first recorded act of online commerce is traced to the Deadhead community at Stanford and MIT: Deadhead hackers at the Stanford lab sell marijuana to Deadhead hackers at the MIT AI Lab over ARPANET. ARPANET is used to arrange the transaction; the physical handoff happens in person. In 1974, Phil Lesh visits the Stanford Artificial Intelligence Laboratory.</source>
+</trans-unit>
+<trans-unit id="sd05bc6f0d5c62bc4">
+  <source>1974</source>
+</trans-unit>
+<trans-unit id="sfb58c96506bf586c">
+  <source>Dead Relix launches</source>
+</trans-unit>
+<trans-unit id="s3b0d5b9a9b56367c">
+  <source>September 1974: the first dedicated print infrastructure for a music fan trading community. The classified "Want Page" for tape traders is the main draw.</source>
+</trans-unit>
+<trans-unit id="s6ad50192ea744784">
+  <source>The Cassette Trading Community</source>
+</trans-unit>
+<trans-unit id="s1490b9180af9585d">
+  <source>mid-1970s – 1986</source>
+</trans-unit>
+<trans-unit id="s6fe98e3b2a6dc1d6">
+  <source>Cassette supersedes reel-to-reel for fan trading. Dual-deck players make home copying trivial. The tape trading community explodes into hundreds of active traders maintaining elaborate postal correspondence systems, typed catalogs, and trade lists.</source>
+</trans-unit>
+<trans-unit id="sef4560b8f19e792c">
+  <source>mid-70s</source>
+</trans-unit>
+<trans-unit id="s30661042ee730ff7">
+  <source>The generation system</source>
+</trans-unit>
+<trans-unit id="s5020d500f483cbfb">
+  <source>The generation system governs quality and status: Gen 1 (direct copy from master) is gold; Gen 4 is muddy. Access to low-generation tapes is social currency. The Dead’s music is travelling through a decentralised peer-to-peer network of humans with cassette decks and stamped envelopes, a human-powered BitTorrent.</source>
+</trans-unit>
+<trans-unit id="sa0cf66411b903019">
+  <source>~1977</source>
+</trans-unit>
+<trans-unit id="s21ebc9adf15f4345">
+  <source>Jerry Garcia pivots</source>
+</trans-unit>
+<trans-unit id="s720a464b4cdf06d6">
+  <source>An interviewer asks Garcia about "unauthorized recordings." Garcia is initially hostile, then realises the interviewer means fan trading, not commercial bootlegging. His position shifts. By 1982 he says: "When we are done with it, they can have it." This is the philosophical foundation on which everything downstream on the LMA is built.</source>
+</trans-unit>
+<trans-unit id="se836b26552ee3a85">
+  <source>late 70s</source>
+</trans-unit>
+<trans-unit id="sef2c770023a56ce2">
+  <source>The MIT scene</source>
+</trans-unit>
+<trans-unit id="s5436c5e740d87272">
+  <source>A parallel community grows at MIT’s AI Lab, mirroring the Stanford scene. An East Coast Deadhead email list emerges at MIT. A fellow known as "Gumby" is going between Stanford and MIT, and the two communities are now linked across ARPANET, discussing shows, arranging tape trades, and doing whatever else Deadhead researchers did on government computers in the late 1970s.</source>
+</trans-unit>
+<trans-unit id="sd05bbbf0d5c61913">
+  <source>1979</source>
+</trans-unit>
+<trans-unit id="s70e828a4df2c3d33">
+  <source>Usenet created</source>
+</trans-unit>
+<trans-unit id="sfefe555ebbfafdaf">
+  <source>Created by graduating researchers locked out of ARPANET. When you graduate from the universities and no longer have access to the lab computers and the network, what do you do? Build a new way to jack into the network, using phone lines and autodialers. Extremely slow, it could take a week to bounce a message from the US to Australia, but unstoppable.</source>
+</trans-unit>
+<trans-unit id="sd0583ef0d5c30ed5">
+  <source>1982</source>
+</trans-unit>
+<trans-unit id="sd61904b4bb8a492c">
+  <source>net.gdead: the first band-specific newsgroup</source>
+</trans-unit>
+<trans-unit id="s2cb4c60147af3d17">
+  <source>Late 1981: net.music launches on Usenet, the first music newsgroup on any public network. In spring 1982, net.gdead forks from net.music, largely because the Dead-specific traffic was too large. This is the first band-specific dedicated discussion group on the public internet. (The Beatles get their own newsgroup in 1987.)</source>
+</trans-unit>
+<trans-unit id="sd268480699ffb67f">
+  <source>First digital live concert recording in America</source>
+</trans-unit>
+<trans-unit id="s7c1e127a64aeaf43">
+  <source>April 1982: on PCM-Betamax digital tape, at a Dead show, by their soundman Dan Healy. A year before CDs become standard in the US.</source>
+</trans-unit>
+<trans-unit id="sd05838f0d5c304a3">
+  <source>1984</source>
+</trans-unit>
+<trans-unit id="sb34eb8fc299dedac">
+  <source>The official Tapers’ Section</source>
+</trans-unit>
+<trans-unit id="s247bba9af9434539">
+  <source>October 27, 1984: the first officially sanctioned concert taping policy with a dedicated physical space. Dan Healy is complaining that the mic stands are blocking his view. The ticketing manager notices that there are 100–200 seats behind the board that never sell anyway because you can’t see the stage. The taping section is born; the band formalizes the policy that year.</source>
+</trans-unit>
+<trans-unit id="s80654da73bd3d1fa">
+  <source>The band understands that the taper network is the Dead’s unpaid, fanatically dedicated marketing department. The recordings are advertising for the shows.</source>
+</trans-unit>
+<trans-unit id="sd0583af0d5c30809">
+  <source>1986</source>
+</trans-unit>
+<trans-unit id="sa0caf90dee304030">
+  <source>The Grateful Dead conference on the WELL</source>
+</trans-unit>
+<trans-unit id="s1394d2dab86526b6">
+  <source>February 1985: the WELL online community launches in Sausalito. On March 1, 1986, the Grateful Dead conference opens on the WELL, the first major online community for any musical artist. David Gans, John Perry Barlow, and much of the core intellectual Deadhead world are online.</source>
+</trans-unit>
+<trans-unit id="s6ea7ac0b93f811ad">
+  <source>The WELL Dead conference becomes the most vibrant online fan community of the pre-web era, pioneering norms of digital discourse, real identity ("You own your own words"), accountability, sustained long-form discussion, that shape the shape of the internet.</source>
+</trans-unit>
+<trans-unit id="s97f9cc13214710fd">
+  <source>Usenet Grows Up, the EFF, and the Bandwidth Wall</source>
+</trans-unit>
+<trans-unit id="safe1746170a76beb">
+  <source>1986 – 1994</source>
+</trans-unit>
+<trans-unit id="sb7cbcbd999875552">
+  <source>By 1986 Usenet has grown unmanageable, and the Deadhead community’s two decades of experience with free information and decentralised community starts shaping the institutions of the internet itself.</source>
+</trans-unit>
+<trans-unit id="sb52f23b00256336f">
+  <source>1986–87</source>
+</trans-unit>
+<trans-unit id="s9b8fbde9da4345a2">
+  <source>The Great Renaming</source>
+</trans-unit>
+<trans-unit id="se302f5f7ae8f30b6">
+  <source>Usenet is reorganised by the Backbone Cabal, the administrators of the largest, always-on backbone nodes, the people through whose machines most of Usenet’s traffic flows. net.gdead’s five-year legacy and large established community make its survival non-negotiable. It becomes rec.music.gdead.</source>
+</trans-unit>
+<trans-unit id="s6e8c80559b8ca662">
+  <source>rec.music.gdead is in the founding cohort of the rec.music.* hierarchy, one of only a handful of groups that arrive with an established community already behind them. It eventually reaches 38,000 readers and 9,000+ posts per month, one of the most active newsgroups anywhere on Usenet.</source>
+</trans-unit>
+<trans-unit id="sd054b6f0d5bff1e6">
+  <source>1990</source>
+</trans-unit>
+<trans-unit id="s8df6582ddd96c801">
+  <source>Barlow co-founds the Electronic Frontier Foundation</source>
+</trans-unit>
+<trans-unit id="s3f7d0606df470eca">
+  <source>With Mitchell Kapor and John Gilmore, Grateful Dead lyricist John Perry Barlow founds the EFF to defend digital rights before most of the public understands what digital rights are. The founding philosophy flows directly from Deadhead culture’s two decades of experience with free information and decentralised community.</source>
+</trans-unit>
+<trans-unit id="sc02560e9bdb481a7">
+  <source>EFF board member Brewster Kahle, who will later found the Internet Archive, and board member John Gilmore, who co-created the alt.* Usenet hierarchy, both sit at the same table as Barlow. These three board relationships are the personal infrastructure that will, twelve years later, enable the Grateful Dead Archive at archive.org. The Dead community didn’t just build the internet. They built the organisations that protected it.</source>
+</trans-unit>
+<trans-unit id="sd054baf0d5bff8b2">
+  <source>1994</source>
+</trans-unit>
+<trans-unit id="sa6ec7b4bd06d4bad">
+  <source>"The Economy of Ideas"</source>
+</trans-unit>
+<trans-unit id="sce279fcea4bb992b">
+  <source>March 1994: Barlow publishes "The Economy of Ideas" in Wired, using the Dead as proof of concept for his ideas about the nature of copyright in the information economy.</source>
+</trans-unit>
+<trans-unit id="s01da9ac4b16d40c8">
+  <source>This essay is the intellectual ancestor of Creative Commons licensing, open-source software philosophy, Spotify’s streaming model, and every information economy built on the principle that free distribution increases rather than decreases value.</source>
+</trans-unit>
+<trans-unit id="s5d57344d48176c82">
+  <source>early 90s</source>
+</trans-unit>
+<trans-unit id="s0206953962af1ba3">
+  <source>The bandwidth wall: audio trading stays physical</source>
+</trans-unit>
+<trans-unit id="s74195be487ce1747">
+  <source>A 90-minute concert at CD quality is approximately 800MB–1GB. On a university T1 line, a compressed show downloads in ~35 minutes; on a 28.8k modem, approximately 31 hours; on a typical 14.4k modem, approximately 62 hours. The internet can carry text, setlists, tape lists, trade requests, show reviews, and FAQs. It cannot carry audio.</source>
+</trans-unit>
+<trans-unit id="s25196724f6c3780a">
+  <source>The tape trading network remains entirely physical, cassettes and DATs organised by post, coordinated by digital networks but delivered by the postal service. The internet is the card catalogue. The tapes are still in the mail.</source>
+</trans-unit>
+<trans-unit id="sde4b7674ba318293">
+  <source>gdead.berkeley.edu: the first persistent digital archive</source>
+</trans-unit>
+<trans-unit id="s5fe699a0a31751c4">
+  <source>A UC Berkeley server becomes the central repository for Grateful Dead digital assets: typed setlists from 1972 onward, show statistics, tape label templates, guitar tablature, FAQs, lyrics, and images. Accessed via anonymous FTP, text-only, command-line, Unix knowledge required. The setlist database, built by Jerry Stratton and others, is the first systematically organised, collaboratively maintained digital record of any artist’s live performances.</source>
+</trans-unit>
+<trans-unit id="s873f598a8bbb4197">
+  <source>The FAQ walked novice users through FTP protocol step by step, because the community understood that new people needed to be brought in. Deadheads were not gatekeepers. They were onboarders.</source>
+</trans-unit>
+<trans-unit id="sdbf120ac0d3a3e2c">
+  <source>The Web Arrives, DAT Democratises Quality, Jerry Dies</source>
+</trans-unit>
+<trans-unit id="s946fafb2a9030362">
+  <source>1993 – 1995</source>
+</trans-unit>
+<trans-unit id="s54d96c7cb69cbbb4">
+  <source>The Dead have a web presence before most bands know the web exists, because the people who built the web and the people who followed the Dead were, to a remarkable degree, the same people.</source>
+</trans-unit>
+<trans-unit id="sd054b5f0d5bff033">
+  <source>1993</source>
+</trans-unit>
+<trans-unit id="s297ff29c833aa1b6">
+  <source>Mosaic, and the Dead’s first web presence</source>
+</trans-unit>
+<trans-unit id="sa2a2406265be994e">
+  <source>Mark Leone at CMU builds one of the first Grateful Dead web pages, linking to the gdead.berkeley.edu FTP archive. In 1994, dead.net launches, the first official band website for a major rock band. And in 1992–93, the dead-flames mailing list at the University of Virginia is formally two-way gatewayed to rec.music.gdead: post to either system, appear in both.</source>
+</trans-unit>
+<trans-unit id="sb2c9c548646b447d">
+  <source>1993–94</source>
+</trans-unit>
+<trans-unit id="sb79e97c3c283b247">
+  <source>DAT supersedes cassette for serious tapers</source>
+</trans-unit>
+<trans-unit id="sa6c248fe61b261ed">
+  <source>The first perfect-copy tape format, the end of generational degradation. The social structure of taping culture, built around scarcity of quality, is democratised. The music is ready for the digital age. The network is not yet fast enough to carry it.</source>
+</trans-unit>
+<trans-unit id="sd054bbf0d5bffa65">
+  <source>1995</source>
+</trans-unit>
+<trans-unit id="s982bf9fa5ef6dc67">
+  <source>Jerry Garcia dies</source>
+</trans-unit>
+<trans-unit id="s2de92d5398bfa45f">
+  <source>August 9, 1995.</source>
+</trans-unit>
+<trans-unit id="se8517aa54a34407f">
+  <source>Lossless Files, etree, and the Pre-Archive Era</source>
+</trans-unit>
+<trans-unit id="s7d84bbc98189f31d">
+  <source>1996 – 2000</source>
+</trans-unit>
+<trans-unit id="sb18de947e4e20c92">
+  <source>Lossless compression finally makes audio tradeable, and the community builds the cataloging system that will become the metadata backbone of the Live Music Archive.</source>
+</trans-unit>
+<trans-unit id="sdba4d36221483a4c">
+  <source>1996–98</source>
+</trans-unit>
+<trans-unit id="se8e0c1de1a7e0c14">
+  <source>Shorten (.SHN): lossless compression</source>
+</trans-unit>
+<trans-unit id="s9cd1a89b9a94d6c5">
+  <source>The Shorten codec compresses lossless audio to ~50–60% of WAV file size. A concert drops from ~800MB to ~400–500MB. Simultaneously, internet speeds rise, university connections hit 10Mbps; early broadband reaches 1–2Mbps for consumers. A show can now download in a few hours on a fast connection.</source>
+</trans-unit>
+<trans-unit id="saf47be8ced9e56ab">
+  <source>Deadheads begin distributing .SHN files through Usenet binary groups (alt.binaries.gdead) and individual volunteer FTP servers. It works, but barely, no central index, no quality verification, no standardised metadata, no way to know if what you’re downloading is what it claims to be.</source>
+</trans-unit>
+<trans-unit id="sd054bef0d5bfff7e">
+  <source>1998</source>
+</trans-unit>
+<trans-unit id="s812430eda7d62fbb">
+  <source>etree.org: Live, Lossless, Legal</source>
+</trans-unit>
+<trans-unit id="sd1d71214d677a121">
+  <source>Summer 1998: Steve Hormell founds etree.org, the first organised digital lossless music trading community, around three principles: "Live, Lossless, Legal." It allows only taper-friendly artists, no commercial releases, no profiteering. Within four years: 12,000+ users, 300 volunteer FTP servers.</source>
+</trans-unit>
+<trans-unit id="s1443c69627cec45c">
+  <source>The SHNID (Shorten ID) system assigns a unique identifier to every known circulating show, tracking source, lineage, encoding parameters, and community quality ratings. This cataloging system, built by volunteers, becomes the metadata backbone of the eventual Internet Archive collection as the Live Music Archive. etree is the bridge, the moment the physical tape economy fully becomes a digital file economy.</source>
+</trans-unit>
+<trans-unit id="s71e8525bc8aa1813">
+  <source>~2000</source>
+</trans-unit>
+<trans-unit id="scecd22c0485c0dfe">
+  <source>The Grateful Dead Internet Archive Project</source>
+</trans-unit>
+<trans-unit id="s797c985b68efa6c1">
+  <source>The first systematic effort to digitise and catalogue a complete concert archive for any artist. A group of volunteers begins the systematic collection and conversion of Grateful Dead recordings into lossless format. Tom Anderson creates db.etree.org, assigning MD5 hashes to every circulating show, a cryptographic fingerprint that lets anyone verify an exact copy.</source>
+</trans-unit>
+<trans-unit id="sbd1a0fd9de19c2a1">
+  <source>The goal: a complete, quality-verified catalogue of every circulating Dead recording, organised with the obsessive completist attention that only a community of Deadheads could sustain.</source>
+</trans-unit>
+<trans-unit id="saa36bb0aa332c8d3">
+  <source>The Live Music Archive</source>
+</trans-unit>
+<trans-unit id="sc299b10d079f7675">
+  <source>2002 – today</source>
+</trans-unit>
+<trans-unit id="s26076961ed22c7d0">
+  <source>Unlimited storage. Unlimited bandwidth. Free. Forever. The community’s response: "We don’t believe you. But if you could, that would be our dream."</source>
+</trans-unit>
+<trans-unit id="s183e300b358bffdd">
+  <source>2002</source>
+</trans-unit>
+<trans-unit id="s24fe8db73af4cb9c">
+  <source>Jon Aizen proposes the Live Music Archive</source>
+</trans-unit>
+<trans-unit id="sc378fc22eb0c9b0c">
+  <source>July 23, 2002: Internet Archive engineer and Deadhead Jon Aizen posts to the etree mailing lists: the Archive will host etree-approved shows. Unlimited storage. Unlimited bandwidth. Free. Forever.</source>
+</trans-unit>
+<trans-unit id="s7677285b32637ee6">
+  <source>First show uploaded</source>
+</trans-unit>
+<trans-unit id="s0a0b4f9784929357">
+  <source>August 12, 2002: Aizen uploads a Rusted Root audience recording, the first free, unlimited, permanent streaming archive for live music. Within weeks etree members begin uploading in volume. The Grateful Dead permission comes through Brewster Kahle’s EFF board connection to John Perry Barlow.</source>
+</trans-unit>
+<trans-unit id="s183e2a0b358bf5ab">
+  <source>2004</source>
+</trans-unit>
+<trans-unit id="s6b95d9c4c482c961">
+  <source>The Grateful Dead Archive goes live on archive.org</source>
+</trans-unit>
+<trans-unit id="s2ec8a66ead973b23">
+  <source>Every circulating audience recording of every known show, thousands of concerts spanning 1965–1995, freely streamable and downloadable by anyone on earth. No login. No fee. No restriction. The endpoint of a 35-year journey from Owsley’s reels at the Fillmore to Cornell 5/8/77 on your phone, from a typed setlist in a manila folder to a searchable database of 8,000 shows.</source>
+</trans-unit>
+<trans-unit id="s183e290b358bf3f8">
+  <source>2005</source>
+</trans-unit>
+<trans-unit id="s06115b524516cf41">
+  <source>The soundboard controversy</source>
+</trans-unit>
+<trans-unit id="s37f1b0de057bd7fd">
+  <source>November 2005: Grateful Dead Productions removes download access to all soundboard recordings, restricting them to streaming-only. The community erupts. The compromise holds to this day: audience tapes trade freely, soundboards stream for all, and the archive keeps growing, one lineage-documented tape at a time.</source>
+</trans-unit>
+<trans-unit id="sa411597d0674521e">
+  <source>today</source>
+</trans-unit>
+<trans-unit id="sd6cde75126df00dc">
+  <source>Still rolling</source>
+</trans-unit>
+<trans-unit id="s5f10088f6200569c">
+  <source>This culture is not just some thing of the past, it is still quite happening. Tonight you can be sure that somewhere tapers have mic trees up. They are recording which gear they are using, or noting the sources and generations of old recordings they’ve come across, exactly as their predecessors did with index cards. Its the same community, on the vanguard of the technology of the day, as always. Fresh recordings arrive at the LMA every single day, lineage documented, checksummed, and free for humanity to enjoy.</source>
+</trans-unit>
+<trans-unit id="s376d35680cb06fda">
+  <source>SBD · Soundboard</source>
+</trans-unit>
+<trans-unit id="s1b295172b760f728">
+  <source>Patched straight off the mixing desk, dry, detailed, exactly what the engineer heard.</source>
+</trans-unit>
+<trans-unit id="sd41429208641ea9e">
+  <source>AUD · Audience</source>
+</trans-unit>
+<trans-unit id="s5bafe43160a9e657">
+  <source>The taper's own mics in the crowd, the room, the crowd, the night itself.</source>
+</trans-unit>
+<trans-unit id="s3745ec8503c42926">
+  <source>MTX · Matrix</source>
+</trans-unit>
+<trans-unit id="s743c7e3becc766b8">
+  <source>Board + audience blended, the detail of one, the air of the other.</source>
+</trans-unit>
+<trans-unit id="s7a6405f34fc02090">
+  <source>Reel-to-Reel</source>
+</trans-unit>
+<trans-unit id="s03091ff032e4842b">
+  <source>'50s–'80s</source>
+</trans-unit>
+<trans-unit id="sabf7cd9b1e539a56">
+  <source>The master medium. Every analog pass sheds a little top end, which is why masters are treasured.</source>
+</trans-unit>
+<trans-unit id="s08e7c4d712280e19">
+  <source>Cassette</source>
+</trans-unit>
+<trans-unit id="seeca6b076ca76066">
+  <source>'70s–'90s</source>
+</trans-unit>
+<trans-unit id="s9465194328d52851">
+  <source>Each dub stacks ~3 dB of hiss and softens transients. Generation counts exist because of this.</source>
+</trans-unit>
+<trans-unit id="se0292c1991b37d26">
+  <source>DAT</source>
+</trans-unit>
+<trans-unit id="s984412e0cc4372be">
+  <source>'87–'00s</source>
+</trans-unit>
+<trans-unit id="s68e0beac77191cec">
+  <source>First digital tape: a DAT clone is bit-identical. The analog→DAT transfer is where the sound is set forever.</source>
+</trans-unit>
+<trans-unit id="se3d1f09c5adcbd9d">
+  <source>CD-R</source>
+</trans-unit>
+<trans-unit id="s498356973169a597">
+  <source>'90s–'00s</source>
+</trans-unit>
+<trans-unit id="s3c02133cefaf8ead">
+  <source>Bit-perfect audio, fragile discs. EAC secure extraction rescued thousands of burns before they rotted.</source>
+</trans-unit>
+<trans-unit id="s12b6cd85a475534b">
+  <source>FLAC</source>
+</trans-unit>
+<trans-unit id="sb514a95d14c1cb68">
+  <source>'03–now</source>
+</trans-unit>
+<trans-unit id="sa9702582b80f11a1">
+  <source>Verbatim, checksummed, forever. The generation counter stops here.</source>
+</trans-unit>
+<trans-unit id="s08042c961ecc3e5c">
+  <source>The honest "?"</source>
+</trans-unit>
+<trans-unit id="se6f7b419052023cd">
+  <source>any</source>
+</trans-unit>
+<trans-unit id="s7874f30cd417f31a">
+  <source>Undocumented generations are marked, never guessed. The notation is an archival record, not a sales pitch.</source>
+</trans-unit>
+<trans-unit id="sd06249f0d5cb760b">
+  <source>1957</source>
+</trans-unit>
+<trans-unit id="sca920b10eb9bc969">
+  <source>Nagra III</source>
+</trans-unit>
+<trans-unit id="se3bd3e165962b9e0">
+  <source>The Swiss portable that made location recording real, and, under a big enough coat, smuggle-able.</source>
+</trans-unit>
+<trans-unit id="s35889f1d89d875cb">
+  <source>Peter and Frans, soundtapewereld.nl, CC BY-SA 3.0, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="s2f73e1f3de4dd897">
+  <source>DEC PDP-10</source>
+</trans-unit>
+<trans-unit id="s37251e7cbb2dcfae">
+  <source>The mainframe behind WAITS at the Stanford AI Lab, home of dead@SU-AI and the first crowdsourced lyrics database.</source>
+</trans-unit>
+<trans-unit id="s15bf33d6e5ac664d">
+  <source>Retro-Computing Society of Rhode Island, CC BY-SA 3.0, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="sd5b662bfca8e7d6b">
+  <source>Nagra IV-S</source>
+</trans-unit>
+<trans-unit id="sc126b893fc0b8741">
+  <source>The stereo reel machine, master decks like this are why “master reel” opens so many lineages.</source>
+</trans-unit>
+<trans-unit id="s32c6b4b3bd57e546">
+  <source>Hens Zimmerman, CC BY 2.0, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="sb7c26b5b6d3f1c0e">
+  <source>'70s</source>
+</trans-unit>
+<trans-unit id="s159529ad982a6ea2">
+  <source>Compact cassette</source>
+</trans-unit>
+<trans-unit id="s4d58b831554304b4">
+  <source>The trading medium: dual decks made copying trivial, and every dub cost a generation.</source>
+</trans-unit>
+<trans-unit id="s8e0501c81f2b7720">
+  <source>Thegreenj, CC BY-SA 3.0, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="sfdf96a54c55601ad">
+  <source>Relix</source>
+</trans-unit>
+<trans-unit id="sa3b49e2c229353e1">
+  <source>“Tapers: Collectors of Rareties”, the zine whose classified “Want Page” wired the postal trading network.</source>
+</trans-unit>
+<trans-unit id="sd05bc9f0d5c630dd">
+  <source>1977</source>
+</trans-unit>
+<trans-unit id="s5046c718c28d7247">
+  <source>ARPANET, mapped</source>
+</trans-unit>
+<trans-unit id="sfc35bcbabc152c49">
+  <source>The logical map, the handful of nodes that carried the first online fan community.</source>
+</trans-unit>
+<trans-unit id="sa81ddafdb7722d7a">
+  <source>ARPANET logical map, public domain, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="sb39f572197c8cc58">
+  <source>PCM on Betamax</source>
+</trans-unit>
+<trans-unit id="s791399c8ce1bfa74">
+  <source>A Sony PCM processor atop its Betamax deck, how Dan Healy recorded digital at a Dead show in April 1982.</source>
+</trans-unit>
+<trans-unit id="s107f6bb4f7bf9c12">
+  <source>Oliver A. Masciarotte, CC BY-SA 3.0, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="s008d4b25fbe6217a">
+  <source>The mic trees</source>
+</trans-unit>
+<trans-unit id="s44671342dbcb5f85">
+  <source>The official Tapers’ Section, the forest of stands behind the board.</source>
+</trans-unit>
+<trans-unit id="s38a9dd4b75c458d0">
+  <source>Greg Stelz, CC BY-SA 2.0, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="sd05839f0d5c30656">
+  <source>1987</source>
+</trans-unit>
+<trans-unit id="sdea60af808445c6c">
+  <source>DAT recorder</source>
+</trans-unit>
+<trans-unit id="s4540845d4a956413">
+  <source>The first perfect-copy tape format, a DAT clone is bit-identical. Generation loss ends here.</source>
+</trans-unit>
+<trans-unit id="s0c852d123cdeb06a">
+  <source>Kippelboy, CC0, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="s012197d4f7f1e10f">
+  <source>The DAT tape</source>
+</trans-unit>
+<trans-unit id="s68d141327afe7416">
+  <source>A 90-minute DAT cartridge, half the size of a cassette, none of the hiss.</source>
+</trans-unit>
+<trans-unit id="s0395ac5ca3d0f6de">
+  <source>Soerfm, CC BY-SA 3.0, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="s1ef66ba55b499158">
+  <source>etree.org</source>
+</trans-unit>
+<trans-unit id="s859bb751e64fdfab">
+  <source>Live, Lossless, Legal, the community that became the metadata backbone of the LMA.</source>
+</trans-unit>
+<trans-unit id="s183e2d0b358bfac4">
+  <source>2001</source>
+</trans-unit>
+<trans-unit id="s0aef930e5c7d4b9c">
+  <source>Mike Wren, public domain, via Wikimedia Commons</source>
+</trans-unit>
+<trans-unit id="sc3cec20d8356e7aa">
+  <source>DeadBase</source>
+</trans-unit>
+<trans-unit id="s33b7fa0fcf183a02">
+  <source>The printed bible of Grateful Dead setlists since 1987, every show, every segue, cross-checked by thousands of readers.</source>
+</trans-unit>
+<trans-unit id="s243d44c8d08929d4">
+  <source>Deadlists</source>
+</trans-unit>
+<trans-unit id="s5062c01c2b3b649c">
+  <source>The community project to verify every Dead setlist against circulating tapes, evidence-based, tape by tape.</source>
+</trans-unit>
+<trans-unit id="sbb2bb76741dda4b4">
+  <source>etree wiki</source>
+</trans-unit>
+<trans-unit id="sd6ea7f3a4f44f31d">
+  <source>The trading standards: lossless only, lineage documented, masters honored. The rules that kept 30 years of copies honest.</source>
+</trans-unit>
+<trans-unit id="sf60cb4ce87b01552">
+  <source>db.etree.org</source>
+</trans-unit>
+<trans-unit id="s25141f239d139a63">
+  <source>Every circulating source gets a shnid, a serial number and checksum fingerprint for tapes. Yes, tapes have catalog numbers.</source>
+</trans-unit>
+<trans-unit id="se1d260edfbe2c1a3">
+  <source>c. <x id="0" equiv-text="${shortYear(start)}"/>–<x id="1" equiv-text="${shortYear(end)}"/></source>
+</trans-unit>
+<trans-unit id="s27a6b5875610ec3a">
+  <source>show night</source>
+</trans-unit>
+<trans-unit id="sbe2399f1012984a9">
+  <source>at upload</source>
+</trans-unit>
+<trans-unit id="s13e87079b9f1e634">
+  <source>2003 → now</source>
+</trans-unit>
+<trans-unit id="s928ebcc66a2e2e2b">
+  <source>at transfer</source>
+</trans-unit>
+<trans-unit id="s147b846f3bed0096">
+  <source>derived</source>
+</trans-unit>
+<trans-unit id="s2e51d8924f27f0f9">
+  <source>c. ?</source>
+</trans-unit>
+<trans-unit id="sf4cd65eb4aa3fd61">
+  <source>capture</source>
+</trans-unit>
+<trans-unit id="se6f00c431b538e2c">
+  <source>unknown gens</source>
+</trans-unit>
+<trans-unit id="s62db7302513004fd">
+  <source>bit-perfect copy</source>
+</trans-unit>
+<trans-unit id="sadad5e09e832f093">
+  <source>gen 0 · born digital</source>
+</trans-unit>
+<trans-unit id="s68fae54a69ca2f7c">
+  <source>master · gen 0</source>
+</trans-unit>
+<trans-unit id="s4d02539a7414e670">
+  <source>gen ?</source>
+</trans-unit>
+<trans-unit id="sc01e1fe0a683f62a">
+  <source><x id="0" equiv-text="${nth}"/> gen · digital</source>
+</trans-unit>
+<trans-unit id="se815aa5a34672ad2">
+  <source><x id="0" equiv-text="${nth}"/> gen · optical</source>
+</trans-unit>
+<trans-unit id="see1c598a18397a0f">
+  <source><x id="0" equiv-text="${nth}"/> gen</source>
+</trans-unit>
+<trans-unit id="sdcb9e26b449ddab4">
+  <source>lossless · verbatim</source>
+</trans-unit>
+<trans-unit id="s7dcc1bfb8f071a79">
+  <source>lossy encode</source>
+</trans-unit>
+<trans-unit id="s2af6c6f4ff6889e6">
+  <source>transfer</source>
+</trans-unit>
+<trans-unit id="s5665c6a3b7999c9f">
+  <source>Upload Recording</source>
+</trans-unit>
+<trans-unit id="s03a299016b2bba52">
+  <source>History of the LMA — half a century of tapes, networks, and the people who kept both</source>
+</trans-unit>
+<trans-unit id="s954e6b31608c7075">
+  <source>LMA History</source>
+</trans-unit>
+<trans-unit id="sc1165a673d6c1d04">
+  <source>About Tapers — the tapes, the gear, and the people who kept the music</source>
+</trans-unit>
+<trans-unit id="se0342d1d022b0c8a">
+  <source>Classic mode — the original Live Music Archive on archive.org</source>
+</trans-unit>
+<trans-unit id="se389b3b0bb9ef446">
+  <source>Classic Mode</source>
+</trans-unit>
+<trans-unit id="s0c7ad379399944bc">
+  <source>LMA logo</source>
+</trans-unit>
+<trans-unit id="s387de33f0615931d">
+  <source>History of the LMA</source>
+</trans-unit>
+<trans-unit id="s5ebf67343f384adf">
+  <source>An ode to the tapers, archivists, and community maintainers of the Live Music Archive</source>
+</trans-unit>
+<trans-unit id="sd7f79995dc10dba1">
+  <source>The Live Music Archive at the Internet Archive is the result of over half a century of the co-evolution of live music, recording mediums, computers, and the Internet. It is the next logical step in a string of firsts in the history of networked computing, digital community, and the free flow of information online.</source>
+</trans-unit>
+<trans-unit id="s2ed423b1b7f52a4b">
+  <source>The LMA is fueled not only by the bands who play, and kindly permit the non-commercial recording of their shows, but also a by truly unique community of tapers and archivists which continues to thrive and grow today. This collection is the result of this collaboration between bands and their fans; and populated and maintained by volunteers. We thank them each and all.</source>
+</trans-unit>
+<trans-unit id="s5cc11f189f10aa1e">
+  <source>Listening to the LMA is stepping into a cultural lineage which has in every era been on the vanguard of the technology of the day. It’s deep, and it will all make sense to you shortly.</source>
+</trans-unit>
+<trans-unit id="s0c991b3b7dced982">
+  <source>Wayback roots of the LMA</source>
+</trans-unit>
+<trans-unit id="s2d9b7096d272e126">
+  <source>In telling the story of the Live Music Archive, it would be impossible, and even ineffective, to separate its existence from the band called the Grateful Dead. This story is no comment on whether you should like their music (some really do, some really don’t), yet understanding their particular fans and culture help us to understand more clearly how this all came to be.</source>
+</trans-unit>
+<trans-unit id="se40b58734603659a">
+  <source>That is… how you landed at a vast freely accessible digital music archive, on a modern player, streamed real time, across the internet, in high fidelity, on a highly portable or semi portable computer, with full precise metadata, provenance chain, songlists, notes, and comments. And all of it possibly sourced from a notebook and reel-to-reel recorder that was smuggled into a show in 1968.</source>
+</trans-unit>
+<trans-unit id="s98659514836cd265">
+  <source>Timeline of live show recording culture</source>
+</trans-unit>
+<trans-unit id="s42850fec9a3e228e">
+  <source>less −</source>
+</trans-unit>
+<trans-unit id="s35c29fdf902c95f1">
+  <source>more +</source>
+</trans-unit>
+<trans-unit id="s0d60d8c3e1c037ee">
+  <source>Remember, these are not ‘bootlegs’, they are permitted non-commercial recordings, generously curated and provided by lovers of music, which reminding us listeners, with every stream, why we’re going to buy a ticket to that next live music show that comes through town …or we’ll go on a road trip to see them. (Note: “Road trip mode” is the little truck icon on the mobile player :). Enjoy!</source>
+</trans-unit>
+<trans-unit id="s0f4111aa18968179">
+  <source>About Tapers</source>
+</trans-unit>
+<trans-unit id="s610aa670654ec4b3">
+  <source>Browse the Live Music Archive</source>
+</trans-unit>
+<trans-unit id="sdbd0eb5ce562802c">
+  <source>Compiled and told by Alden Bevington, Barlow's Knights Apprentice, friend of the aforementioned band, and designer for the Internet Archive. Contact him with any comments, or to correct the record :)</source>
+</trans-unit>
+<trans-unit id="see6557db67ad347a">
+  <source>Filter by first letter</source>
+</trans-unit>
+<trans-unit id="s54e2f8a77c7067ad">
+  <source>Filter by year</source>
+</trans-unit>
+<trans-unit id="sa76539707f54b1b6">
+  <source>Filter by <x id="0" equiv-text="${option.label}"/></source>
+</trans-unit>
+<trans-unit id="s22759aae8f547d20">
+  <source>Clear filter</source>
+</trans-unit>
+<trans-unit id="saea238db77dab7ec">
+  <source>Could not load more artists.</source>
+</trans-unit>
+<trans-unit id="sba30fc51c4dd17ae">
+  <source>Could not load more shows.</source>
+</trans-unit>
+<trans-unit id="s3b55316ba4d0f099">
+  <source>The Taper Section</source>
+</trans-unit>
+<trans-unit id="s373458393001bb9b">
+  <source>The music-loving archivists who built and continue to build this collection record not only the shows, but the provenance and lineage of every recording, and with a rigor most institutions would envy.</source>
+</trans-unit>
+<trans-unit id="s8cce42e00b10146c">
+  <source>At the Live Music Archive you can simply enjoy the tunes and think no more, or go deep into the history of every generation from the original source, medium transfer, mic used, and mix applied. If you decide to go in deeper, it adds something like an EQ slider of “culture” that makes it all feel even richer.</source>
+</trans-unit>
+<trans-unit id="s0c04d7de0940d6eb">
+  <source>This section is provided as an entry point into the culture that feeds the LMA… an overview of what’s going on here, from a taper’s eye view.</source>
+</trans-unit>
+<trans-unit id="se7f0ab2b724d3a35">
+  <source>Loading counts</source>
+</trans-unit>
+<trans-unit id="sb2ec7d06dcd4f84a">
+  <source>Live tapes</source>
+</trans-unit>
+<trans-unit id="s66e6e957188348e7">
+  <source>and counting</source>
+</trans-unit>
+<trans-unit id="sffa29e95936fd289">
+  <source>Downloadable</source>
+</trans-unit>
+<trans-unit id="s9bdaaaf33f5f84e9">
+  <source>the trading tradition</source>
+</trans-unit>
+<trans-unit id="s9edd0d168aef6ee1">
+  <source>Stream only</source>
+</trans-unit>
+<trans-unit id="s42ea5deb2f064d8b">
+  <source>artist-approved listening</source>
+</trans-unit>
+<trans-unit id="sd4889dc4042f9f7c">
+  <source>GD soundboards</source>
+</trans-unit>
+<trans-unit id="s6b547695998a291f">
+  <source>in the vault, streaming</source>
+</trans-unit>
+<trans-unit id="se8a66c4a368187cf">
+  <source>Where the sound was caught</source>
+</trans-unit>
+<trans-unit id="s689b3f6ae4ba6c88">
+  <source>How to read a lineage</source>
+</trans-unit>
+<trans-unit id="s8255e792f4bdbf85">
+  <source>era dates approximated from show date</source>
+</trans-unit>
+<trans-unit id="s48342fd96b044f10">
+  <source>A classic journey, Barton Hall, May 8, 1977, from Betty Cantor-Jackson's board to the file you stream. Warm colors are analog generations; cool colors are digital, where copying stops costing anything.</source>
+</trans-unit>
+<trans-unit id="s0c032d71590a75e5">
+  <source>The fidelity guide, what a generation costs</source>
+</trans-unit>
+<trans-unit id="scb439bd630821f10">
+  <source>The gear, year by year</source>
+</trans-unit>
+<trans-unit id="sb2d6708b99131233">
+  <source>A photo timeline, from the Nagra III to FLAC</source>
+</trans-unit>
+<trans-unit id="se05861ccfe98e366">
+  <source>demo slot</source>
+</trans-unit>
+<trans-unit id="sc9619fc4d29cad16">
+  <source>The paper trail</source>
+</trans-unit>
+<trans-unit id="h889395799ee484bb">
+  <source>Every tape travels with its records: an info file naming the
+              gear, the taper, the transfer chain;
+              <x id="0" equiv-text="&lt;span class=&quot;code&quot;&gt;"/>md5<x id="1" equiv-text="&lt;/span&gt;"/> and
+              <x id="2" equiv-text="&lt;span class=&quot;code&quot;&gt;"/>ffp<x id="3" equiv-text="&lt;/span&gt;"/> fingerprints proving no bit changed
+              hands; a <x id="4" equiv-text="&lt;span class=&quot;code&quot;&gt;"/>shnid<x id="5" equiv-text="&lt;/span&gt;"/> catalog number in the
+              community database. Setlists are verified against decades of
+              collective record-keeping , down to which songs segued and what
+              Jerry said before the encore.</source>
+</trans-unit>
+<trans-unit id="s5d6ed5345440eb4f">
+  <source>Recorded by the crew, taped by the fans, kept by everyone, thank the taper next time a 1977 soundboard hits your headphones.</source>
+</trans-unit>
+<trans-unit id="s4e8b531b1d057a01">
+  <source>The whole saga → History of the LMA</source>
+</trans-unit>
+<trans-unit id="s65ecd4d91eee175c">
+  <source>List is full</source>
+</trans-unit>
+<trans-unit id="sac7a18ef471610f8">
+  <source>List limit reached</source>
+</trans-unit>
+<trans-unit id="s32cbba6e0e5e48ac">
+  <source>Each list may hold only <x id="0" equiv-text="${LIST_ITEM_LIMIT}"/> items.</source>
+</trans-unit>
+<trans-unit id="sb0204be1d24e8cc3">
+  <source>Your account may have only <x id="0" equiv-text="${USER_LIST_LIMIT}"/> lists.</source>
+</trans-unit>
+<trans-unit id="s31f1afc1bfe1cb3a">
+  <source>Learn more</source>
+</trans-unit>
+<trans-unit id="scf75801980a011ce">
+  <source>Audio/Visual</source>
+</trans-unit>
+<trans-unit id="s9feb1a1345ccc3e5">
+  <source>Network</source>
 </trans-unit>
 </body>
 </file>
